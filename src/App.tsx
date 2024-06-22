@@ -1,11 +1,11 @@
-import Greeting from "./components/Greeting";
+import Greeting from './components/Greeting';
 
 function App() {
-  return (
-    <div>
-      <Greeting name="world!" />
-    </div>
-  );
+	return (
+		<div>
+			<Greeting name='world!' />
+		</div>
+	);
 }
 
 export default App;
